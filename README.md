@@ -1,5 +1,7 @@
 # 💫 About Me:
-I Love uncovering patterns in data and using those insight to tell a story that drive better decision-making.<br>Currently Learning-- Advanced SQL<br>Working On-- Analyzing Skills<br>
+Entry-level Data Analyst with a strong foundation in SQL, Excel, Python, and Power BI, and hands-on experience working on real-world data analysis projects. I enjoy transforming raw data into clear insights that support business decisions and product improvements.
+
+I’ve worked on projects involving data cleaning, exploratory data analysis (EDA), KPI tracking, and dashboard creation, where I analyzed structured datasets to identify trends, patterns, and opportunities. Comfortable writing SQL queries, automating analysis using Python.<br>
 
 
 ## 🌐 Socials:
